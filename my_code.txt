@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Line #1 of git version control
 
 
@@ -7,3 +8,6 @@ Will this work?
 
 
 First amendment
+=======
+Yo
+>>>>>>> 535cccd7f14c7c49c14ab6be3567d996acc83849
